@@ -207,7 +207,7 @@
 .img-here {
   width: 100%;
   height: 400px;
-  background-image: url("./img/trujillo.jpeg");
+  background-image: url("https://imgs.search.brave.com/s4WSv0ZaHo1rgm8w7su5BvcRzi1e07pqkegoX-rAv9I/rs:fit:294:322:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMyLmxpc3RpbmRp/YXJpby5jb20vbi9j/b250ZW50LzY3My82/NzI2MDAvcC8yOTR4/NDQwLzIwMjEwNTI5/MTk1MDQyMS5qcGc");
   background-repeat: no-repeat;
   background-size: cover;
 }
