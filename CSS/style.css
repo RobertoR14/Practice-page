@@ -207,7 +207,7 @@
 .img-here {
   width: 100%;
   height: 400px;
-  background-image: url("/img/trujillo.webp");
+  background-image: url("./img/trujillo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
